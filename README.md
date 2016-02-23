@@ -1,6 +1,6 @@
-# React seed [![Build Status](https://travis-ci.org/badsyntax/react-seed.svg?branch=master)](https://travis-ci.org/badsyntax/react-seed)
+# React FolderTree Component 
 
-A boilerplate for building React apps with ES6 and webpack.
+Folder structure in reactJS with flux and ES6 on react-seed
 
 ## What you get
 
