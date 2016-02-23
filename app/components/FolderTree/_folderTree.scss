@@ -1,0 +1,145 @@
+.clr {
+ clear: both;
+}
+.ft_fname {
+ margin-bottom: 20px;
+}
+
+.ft_text {
+ margin-left: 0%;
+ font-size: 16px;
+ font-family: helvetica neue;
+ float: left;
+}
+
+.ft_textBox {
+ float: left;
+}
+.ft_expButton {
+ cursor: pointer;
+ background: url("../../images/collapsed.png");
+ background-repeat: no-repeat;
+ float: left;
+ width: 28px;
+ height: 15px;
+ margin-top: 4px;
+}
+
+.ft_collButton {
+ cursor: pointer;
+ background: url("../../images/expanded.png");
+ background-repeat: no-repeat;
+ float: left;
+ width: 28px;
+ height: 15px;
+ margin-top: 4px;
+}
+
+.ft_addButton {
+ cursor: pointer;
+background: url("../../images/add-folder.png");
+background-repeat: no-repeat;
+float: left;
+width: 20px;
+height: 18px;
+margin-left: 1%;
+background-size: contain;
+}
+.ft_addfileButton {
+ cursor: pointer;
+ background: url("../../images/file_add.png");
+ background-repeat: no-repeat;
+ float: left;
+ width: 20px;
+ height: 17px;
+ margin-top: 1px; 
+ margin-left:1%;
+ background-size:contain;
+}
+
+.ft_deleteButton {
+cursor: pointer;
+background: url("../../images/delete.png");
+float: left;
+width: 20px;
+height: 17px;
+margin-left: .5%;
+background-size: contain;
+}
+
+.ft_addButton_parent {
+ cursor: pointer;
+ background: url("../../images/add.png");
+ background-repeat: no-repeat;
+ width: 20px;
+ height: 17px;
+ margin-left: 1%;
+ display: inline-block;
+ position: relative;
+ top: 5px;
+}
+
+.ft_separater {
+ float: left;
+ width: 18px;
+ height: 20px;
+}
+
+.ft_container {
+ padding: 20px;
+}
+
+.folderExplorerContainer {
+ width: 100%;
+ overflow: auto;
+ margin-top: 30px;
+}
+.ft_folderIcon{
+	background: url('/images/foldericon.png');
+	width: 20px;
+	height: 20px;
+	float: left;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-right: 1%;
+}
+.ft_fileIcon{
+	background: url('/images/fileicon.png');
+	width: 20px;
+	height: 20px;
+	float: left;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-right: 1%;
+}
+.ft_blank{
+ float: left;
+ width: 10px;
+ height: 17px;
+ margin-top: 4px;
+ margin-left: 1%;
+}
+input[type="button"]{
+background-color: #a3d4ff;
+background-image: -webkit-gradient(linear, left top, left bottom, from(#a3d4ff), to(#88bcf2));
+background-image: -webkit-linear-gradient(top, #a3d4ff, #88bcf2);
+background-image: -moz-linear-gradient(top, #a3d4ff, #88bcf2);
+background-image: -o-linear-gradient(top, #a3d4ff, #88bcf2);
+background-image: linear-gradient(to bottom, #a3d4ff, #88bcf2);
+border-radius: 8px;
+padding: 3px 25px;
+margin-left: 10px;
+border: 1px solid #88bcf2;
+color: #FFFFFF;
+font-size: 12px;
+font-weight: bold;
+text-shadow: 0 1px 1px #70A7E0;
+cursor: pointer;
+}
+.disabledButton{
+	background:#ddd !important;
+	color:#fff !important;
+	text-shadow:none !important;
+	border:1px solid transparent !important;
+	cursor:not-allowed !important;
+}

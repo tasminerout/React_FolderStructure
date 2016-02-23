@@ -1,0 +1,109 @@
+[{
+	"folderName": "Desktop",
+	"type": "folder",
+	"level": 0,
+	"_on": false,
+	"child": [{
+		"folderName": "Games",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": []
+	}, {
+		"folderName": "Photos",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": []
+	}, {
+		"folderName": "Receipts",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": [{
+			"folderName": "January",
+			"type": "file",
+			"level": 2,
+			"_on": false,
+			"child": []
+		}]
+	}, {
+		"folderName": "Scans",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": []
+	}]
+}, {
+	"folderName": "Images",
+	"type": "folder",
+	"level": 0,
+	"_on": false,
+	"child": [{
+		"folderName": "Sony",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": [{
+			"folderName": "Phone",
+			"type": "folder",
+			"level": 2,
+			"_on": false,
+			"child": []
+		}]
+	}, {
+		"folderName": "DSLR",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": [{
+			"folderName": "Picnic",
+			"type": "folder",
+			"level": 2,
+			"_on": false,
+			"child": []
+		}]
+	}, {
+		"folderName": "School",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": []
+	}, {
+		"folderName": "Friends",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": [{
+			"folderName": "Hangouts",
+			"type": "folder",
+			"level": 2,
+			"_on": false,
+			"child": [{
+				"folderName": "Forest",
+				"type": "folder",
+				"level": 3,
+				"_on": false,
+				"child": []
+			}, {
+				"folderName": "Park",
+				"type": "folder",
+				"level": 3,
+				"_on": false,
+				"child": []
+			}]
+		}]
+	}, {
+		"folderName": "Studies",
+		"type": "folder",
+		"level": 1,
+		"_on": false,
+		"child": []
+	}]
+}, {
+	"folderName": "Downloads",
+	"type": "folder",
+	"level": 0,
+	"_on": false,
+	"child": []
+}]
